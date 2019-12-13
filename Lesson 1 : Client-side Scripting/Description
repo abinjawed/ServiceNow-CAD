@@ -1,0 +1,7 @@
+In this module you will learn to:
+
+-Describe the purpose of a client-side script and give examples of what client-side scripts can do
+-Create, test, and debug Client Scripts
+-Create, test, and debug UI Policy scripts
+-Use the GlideForm and GlideUser APIs in scripts
+-Determine whether to use UI Policy scripts or Client Scripts
