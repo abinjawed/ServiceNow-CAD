@@ -1,0 +1,18 @@
+
+In this module you will learn to:
+
+-Write, test, and debug Business Rules
+-Write, test, and debug Script Includes
+--On demand/classless
+--Extend GlideAjax
+--Create a new class
+
+-Use the server-side API including:
+--GlideSystem
+--GlideRecord
+--GlideDateTime
+
+-Use the JavaScript Debugger to debug server-side scripts:
+--Set and remove Breakpoints
+--Step into, out of, over
+--Examine variable values
