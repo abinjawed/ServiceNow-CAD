@@ -1,0 +1,9 @@
+
+In this module, you will learn to:
+
+-Use Runtime Access Tracking to set cross-scope access.
+
+-Use Application Access to:
+  -Protect application records against access by other applications
+  -Protect application records against access through web services
+  -Allow other applications to create application files for the NeedIt application
